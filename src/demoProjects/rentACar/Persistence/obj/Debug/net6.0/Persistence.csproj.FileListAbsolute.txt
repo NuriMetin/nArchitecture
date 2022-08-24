@@ -17,3 +17,9 @@ D:\OwnProjects\BestPractice\nArchitecture\src\demoProjects\rentACar\Persistence\
 D:\OwnProjects\BestPractice\nArchitecture\src\demoProjects\rentACar\Persistence\obj\Debug\net6.0\refint\Persistence.dll
 D:\OwnProjects\BestPractice\nArchitecture\src\demoProjects\rentACar\Persistence\obj\Debug\net6.0\Persistence.pdb
 D:\OwnProjects\BestPractice\nArchitecture\src\demoProjects\rentACar\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+D:\OwnProjects\BestPractice\nArchitecture\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Core.Application.dll
+D:\OwnProjects\BestPractice\nArchitecture\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Core.CrossCuttingConcerns.dll
+D:\OwnProjects\BestPractice\nArchitecture\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Core.Security.dll
+D:\OwnProjects\BestPractice\nArchitecture\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Core.Application.pdb
+D:\OwnProjects\BestPractice\nArchitecture\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Core.CrossCuttingConcerns.pdb
+D:\OwnProjects\BestPractice\nArchitecture\src\demoProjects\rentACar\Persistence\bin\Debug\net6.0\Core.Security.pdb
