@@ -22,7 +22,15 @@ namespace Application.Features.Brands.Rules
         public async Task BrandNameCanNotBeDublicatedWhenInserted(string name)
         {
             IPaginate<Brand> result = await _brandRepository.GetListAsync(x => x.Name == name);
-            if (result.Items.Any()) throw new BusinessException("Brand name exists.");
+
+            if (result.Items.Any()) 
+                throw new BusinessException("Brand name exists.");
+        }
+
+        public void BrandShouldExistWhenRequested(Brand brand)
+        {
+            if (brand == null)
+                throw new BusinessException("Requested brand does not exist");
         }
     }
 }
