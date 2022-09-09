@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "e40Ztg/OzL8dJzKCQnj7ZxhQAiLfv5XJ20YYE/3NI+e8wBbXb3ONo9EZAXEnJqKbIbOlsdGsK1PUuZ9NlqbonA==",
+  "dgSpecHash": "EsTnxDJmFsHbyvP5LqZKKkTZIzz0ZV3QVn50BUiYTRzOR/DCJLHfJ4hQWFizyBI0WhJ6/4eLgwNDndKUMOWKkQ==",
   "success": true,
   "projectFilePath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matinnu\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\matinnu\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
-    "C:\\Users\\matinnu\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
-    "C:\\Users\\matinnu\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
+    "C:\\Users\\matinnu\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
+    "C:\\Users\\matinnu\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
     "C:\\Users\\matinnu\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\matinnu\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\matinnu\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

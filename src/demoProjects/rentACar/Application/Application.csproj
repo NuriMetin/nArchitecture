@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -7,12 +7,35 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Features\Constants\" />
-    <Folder Include="Features\Models\" />
-    <Folder Include="Features\Queries\" />
+    <Compile Remove="Features\Commands\**" />
+    <Compile Remove="Features\Constants\**" />
+    <Compile Remove="Features\Dtos\**" />
+    <Compile Remove="Features\Models\**" />
+    <Compile Remove="Features\Profiles\**" />
+    <Compile Remove="Features\Queries\**" />
+    <Compile Remove="Features\Rules\**" />
+    <EmbeddedResource Remove="Features\Commands\**" />
+    <EmbeddedResource Remove="Features\Constants\**" />
+    <EmbeddedResource Remove="Features\Dtos\**" />
+    <EmbeddedResource Remove="Features\Models\**" />
+    <EmbeddedResource Remove="Features\Profiles\**" />
+    <EmbeddedResource Remove="Features\Queries\**" />
+    <EmbeddedResource Remove="Features\Rules\**" />
+    <None Remove="Features\Commands\**" />
+    <None Remove="Features\Constants\**" />
+    <None Remove="Features\Dtos\**" />
+    <None Remove="Features\Models\**" />
+    <None Remove="Features\Profiles\**" />
+    <None Remove="Features\Queries\**" />
+    <None Remove="Features\Rules\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\Brands\Constants\" />
   </ItemGroup>
 	<ItemGroup>
 		<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+		<PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.2.1" />
 		<PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
 	</ItemGroup>
 	

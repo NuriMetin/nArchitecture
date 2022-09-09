@@ -1,5 +1,5 @@
-﻿using Application.Features.Dtos;
-using Application.Features.Rules;
+﻿using Application.Features.Brands.Dtos;
+using Application.Features.Brands.Rules;
 using Application.Services.Repositories;
 using AutoMapper;
 using Domain.Entities;
@@ -10,7 +10,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.Features.Commands.CreateBrand
+namespace Application.Features.Brands.Commands.CreateBrand
 {
     public class CreateBrandCommand : IRequest<CeratedBrandDto>
     {
