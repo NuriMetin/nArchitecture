@@ -10,21 +10,18 @@
     <Compile Remove="Features\Commands\**" />
     <Compile Remove="Features\Constants\**" />
     <Compile Remove="Features\Dtos\**" />
-    <Compile Remove="Features\Models\**" />
     <Compile Remove="Features\Profiles\**" />
     <Compile Remove="Features\Queries\**" />
     <Compile Remove="Features\Rules\**" />
     <EmbeddedResource Remove="Features\Commands\**" />
     <EmbeddedResource Remove="Features\Constants\**" />
     <EmbeddedResource Remove="Features\Dtos\**" />
-    <EmbeddedResource Remove="Features\Models\**" />
     <EmbeddedResource Remove="Features\Profiles\**" />
     <EmbeddedResource Remove="Features\Queries\**" />
     <EmbeddedResource Remove="Features\Rules\**" />
     <None Remove="Features\Commands\**" />
     <None Remove="Features\Constants\**" />
     <None Remove="Features\Dtos\**" />
-    <None Remove="Features\Models\**" />
     <None Remove="Features\Profiles\**" />
     <None Remove="Features\Queries\**" />
     <None Remove="Features\Rules\**" />
@@ -32,6 +29,7 @@
 
   <ItemGroup>
     <Folder Include="Features\Brands\Constants\" />
+    <Folder Include="Features\Models\" />
   </ItemGroup>
 	<ItemGroup>
 		<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />

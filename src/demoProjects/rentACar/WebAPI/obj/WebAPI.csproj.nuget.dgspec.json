@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\WebAPI\\WebAPI.csproj": {}
+    "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Application\\Core.Application.csproj": {
+    "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Application\\Core.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Application\\Core.Application.csproj",
+        "projectUniqueName": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Application\\Core.Application.csproj",
         "projectName": "Core.Application",
-        "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Application\\Core.Application.csproj",
-        "packagesPath": "C:\\Users\\matinnu\\.nuget\\packages\\",
-        "outputPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Application\\obj\\",
+        "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Application\\Core.Application.csproj",
+        "packagesPath": "C:\\Users\\Hewlett-Packard\\.nuget\\packages\\",
+        "outputPath": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matinnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hewlett-Packard\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj": {
-                "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj"
+              "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj": {
+                "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj"
               },
-              "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
-                "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj"
+              "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
+                "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj"
               }
             }
           }
@@ -74,8 +74,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -84,21 +83,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj": {
+    "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj",
+        "projectUniqueName": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj",
         "projectName": "Core.CrossCuttingConcerns",
-        "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj",
-        "packagesPath": "C:\\Users\\matinnu\\.nuget\\packages\\",
-        "outputPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\obj\\",
+        "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj",
+        "packagesPath": "C:\\Users\\Hewlett-Packard\\.nuget\\packages\\",
+        "outputPath": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matinnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hewlett-Packard\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -151,8 +150,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -161,21 +159,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+    "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
+        "projectUniqueName": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
         "projectName": "Core.Persistence",
-        "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
-        "packagesPath": "C:\\Users\\matinnu\\.nuget\\packages\\",
-        "outputPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Persistence\\obj\\",
+        "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Hewlett-Packard\\.nuget\\packages\\",
+        "outputPath": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matinnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hewlett-Packard\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -216,8 +214,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -226,21 +223,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
+    "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj",
+        "projectUniqueName": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj",
         "projectName": "Core.Security",
-        "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj",
-        "packagesPath": "C:\\Users\\matinnu\\.nuget\\packages\\",
-        "outputPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Security\\obj\\",
+        "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj",
+        "packagesPath": "C:\\Users\\Hewlett-Packard\\.nuget\\packages\\",
+        "outputPath": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Security\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matinnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hewlett-Packard\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -254,8 +251,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
-                "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
+              "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+                "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
               }
             }
           }
@@ -297,8 +294,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -307,21 +303,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Application\\Application.csproj": {
+    "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\matinnu\\.nuget\\packages\\",
-        "outputPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Application\\obj\\",
+        "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Hewlett-Packard\\.nuget\\packages\\",
+        "outputPath": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matinnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hewlett-Packard\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -335,11 +331,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Application\\Core.Application.csproj": {
-                "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Application\\Core.Application.csproj"
+              "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Application\\Core.Application.csproj": {
+                "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Application\\Core.Application.csproj"
               },
-              "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj"
+              "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj"
               }
             }
           }
@@ -373,8 +369,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -383,21 +378,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj": {
+    "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\matinnu\\.nuget\\packages\\",
-        "outputPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\obj\\",
+        "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Hewlett-Packard\\.nuget\\packages\\",
+        "outputPath": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matinnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hewlett-Packard\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -411,8 +406,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
-                "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
+              "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+                "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
               }
             }
           }
@@ -432,8 +427,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -442,21 +436,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\matinnu\\.nuget\\packages\\",
-        "outputPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Infrastructure\\obj\\",
+        "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Hewlett-Packard\\.nuget\\packages\\",
+        "outputPath": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matinnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hewlett-Packard\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -487,8 +481,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -497,21 +490,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj": {
+    "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\matinnu\\.nuget\\packages\\",
-        "outputPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Persistence\\obj\\",
+        "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\Hewlett-Packard\\.nuget\\packages\\",
+        "outputPath": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matinnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hewlett-Packard\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -525,11 +518,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Application\\Application.csproj": {
-                "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Application\\Application.csproj"
+              "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Application\\Application.csproj": {
+                "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Application\\Application.csproj"
               },
-              "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj"
+              "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj"
               }
             }
           }
@@ -555,8 +548,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -565,21 +557,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\WebAPI\\WebAPI.csproj": {
+    "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\WebAPI\\WebAPI.csproj",
-        "packagesPath": "C:\\Users\\matinnu\\.nuget\\packages\\",
-        "outputPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\WebAPI\\obj\\",
+        "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Hewlett-Packard\\.nuget\\packages\\",
+        "outputPath": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matinnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hewlett-Packard\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -593,14 +585,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Application\\Application.csproj": {
-                "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Application\\Application.csproj"
+              "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Application\\Application.csproj": {
+                "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Application\\Application.csproj"
               },
-              "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Infrastructure\\Infrastructure.csproj"
+              "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Infrastructure\\Infrastructure.csproj"
               },
-              "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj": {
-                "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj"
+              "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj": {
+                "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -650,8 +642,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -663,7 +654,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

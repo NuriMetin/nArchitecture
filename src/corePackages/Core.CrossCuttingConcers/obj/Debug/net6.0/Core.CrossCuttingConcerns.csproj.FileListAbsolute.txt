@@ -10,3 +10,15 @@ D:\OwnProjects\BestPractice\nArchitecture\src\corePackages\Core.CrossCuttingConc
 D:\OwnProjects\BestPractice\nArchitecture\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\refint\Core.CrossCuttingConcerns.dll
 D:\OwnProjects\BestPractice\nArchitecture\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.pdb
 D:\OwnProjects\BestPractice\nArchitecture\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\ref\Core.CrossCuttingConcerns.dll
+D:\Metin\Projects\nArchitecture\src\corePackages\Core.CrossCuttingConcers\bin\Debug\net6.0\Core.CrossCuttingConcerns.deps.json
+D:\Metin\Projects\nArchitecture\src\corePackages\Core.CrossCuttingConcers\bin\Debug\net6.0\Core.CrossCuttingConcerns.dll
+D:\Metin\Projects\nArchitecture\src\corePackages\Core.CrossCuttingConcers\bin\Debug\net6.0\Core.CrossCuttingConcerns.pdb
+D:\Metin\Projects\nArchitecture\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.csproj.AssemblyReference.cache
+D:\Metin\Projects\nArchitecture\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Metin\Projects\nArchitecture\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.AssemblyInfoInputs.cache
+D:\Metin\Projects\nArchitecture\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.AssemblyInfo.cs
+D:\Metin\Projects\nArchitecture\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+D:\Metin\Projects\nArchitecture\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.dll
+D:\Metin\Projects\nArchitecture\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\refint\Core.CrossCuttingConcerns.dll
+D:\Metin\Projects\nArchitecture\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.pdb
+D:\Metin\Projects\nArchitecture\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\ref\Core.CrossCuttingConcerns.dll

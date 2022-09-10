@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {}
+    "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {}
   },
   "projects": {
-    "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+    "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
+        "projectUniqueName": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
         "projectName": "Core.Persistence",
-        "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
-        "packagesPath": "C:\\Users\\matinnu\\.nuget\\packages\\",
-        "outputPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Persistence\\obj\\",
+        "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Hewlett-Packard\\.nuget\\packages\\",
+        "outputPath": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matinnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hewlett-Packard\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,8 +55,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -65,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
