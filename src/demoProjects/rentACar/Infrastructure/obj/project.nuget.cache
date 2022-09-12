@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KUF93K0qJyNqCTE1NSKg//5vd4sYU9/TAzf1l7FIBBaAF5XNow6RFqKNTSODNnt6WuQaHTGvjGDs6z17ITn+pA==",
+  "dgSpecHash": "Sdd1958TCmfR3e6XXeiBue+Kl85ybANwW+oNwOyG+KY6lj70ZxqFXOH35EvzAPb1Dd174t8S+Q0/Iid5rKsnmQ==",
   "success": true,
-  "projectFilePath": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

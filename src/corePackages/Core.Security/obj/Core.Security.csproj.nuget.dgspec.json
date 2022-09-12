@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj": {}
+    "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj": {}
   },
   "projects": {
-    "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+    "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
+        "projectUniqueName": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
         "projectName": "Core.Persistence",
-        "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
-        "packagesPath": "C:\\Users\\Hewlett-Packard\\.nuget\\packages\\",
-        "outputPath": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Persistence\\obj\\",
+        "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
+        "packagesPath": "C:\\Users\\matinnu\\.nuget\\packages\\",
+        "outputPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Hewlett-Packard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\matinnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -64,21 +65,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
+    "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj",
+        "projectUniqueName": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj",
         "projectName": "Core.Security",
-        "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj",
-        "packagesPath": "C:\\Users\\Hewlett-Packard\\.nuget\\packages\\",
-        "outputPath": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Security\\obj\\",
+        "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj",
+        "packagesPath": "C:\\Users\\matinnu\\.nuget\\packages\\",
+        "outputPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Security\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Hewlett-Packard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\matinnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -92,8 +93,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
-                "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
+              "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+                "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
               }
             }
           }
@@ -135,7 +136,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -144,7 +146,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

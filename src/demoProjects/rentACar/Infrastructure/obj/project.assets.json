@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Hewlett-Packard\\.nuget\\packages\\": {}
+    "C:\\Users\\matinnu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Infrastructure\\Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Hewlett-Packard\\.nuget\\packages\\",
-      "outputPath": "D:\\Metin\\Projects\\nArchitecture\\src\\demoProjects\\rentACar\\Infrastructure\\obj\\",
+      "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\matinnu\\.nuget\\packages\\",
+      "outputPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\demoProjects\\rentACar\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Hewlett-Packard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\matinnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
