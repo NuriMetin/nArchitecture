@@ -20,6 +20,7 @@ namespace Application.Features.Models.Queries.GetListModel
 
         public class GetListModelQueryHandler : IRequestHandler<GetListModelQuery, ModelListModel>
         {
+
             private readonly IMapper _mapper;
             private readonly IModelRepository _modelRepository;
 
@@ -31,14 +32,15 @@ namespace Application.Features.Models.Queries.GetListModel
 
             public async Task<ModelListModel> Handle(GetListModelQuery request, CancellationToken cancellationToken)
             {
+                //car models
                 IPaginate<Model> models = await _modelRepository.GetListAsync(include:
-                                                    m=>m.Include(x=>x.Brand),
-                                                    index:request.PageRequest.Page,
-                                                    size:request.PageRequest.PageSize);
-
-                ModelListModel model = _mapper.Map<ModelListModel>(models);
-
-                return model;
+                                              m => m.Include(c => c.Brand),
+                                              index: request.PageRequest.Page,
+                                              size: request.PageRequest.PageSize
+                                              );
+                //dataModel
+                ModelListModel mappedModels = _mapper.Map<ModelListModel>(models);
+                return mappedModels;
             }
         }
     }

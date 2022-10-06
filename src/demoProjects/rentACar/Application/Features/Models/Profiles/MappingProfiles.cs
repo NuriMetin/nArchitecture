@@ -16,7 +16,7 @@ namespace Application.Features.Models.Profiles
         public MappingProfiles()
         {
             CreateMap<Model, ModelListDto>()
-                .ForMember(x => x.BrandName, opt => opt.MapFrom(x => x.Brand.Name))
+                .ForMember(c => c.BrandName, opt => opt.MapFrom(c => c.Brand.Name))
                 .ReverseMap();
 
             CreateMap<IPaginate<Model>, ModelListModel>().ReverseMap();

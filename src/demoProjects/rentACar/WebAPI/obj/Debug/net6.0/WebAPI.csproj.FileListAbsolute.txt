@@ -89,6 +89,13 @@ D:\OwnProjects\BestPractice\nArchitecture\src\demoProjects\rentACar\WebAPI\bin\D
 D:\OwnProjects\BestPractice\nArchitecture\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\Core.Application.pdb
 D:\OwnProjects\BestPractice\nArchitecture\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\Core.CrossCuttingConcerns.pdb
 D:\OwnProjects\BestPractice\nArchitecture\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\Core.Security.pdb
+D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\appsettings.Development.json
 D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\appsettings.json
 D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\WebAPI.exe
@@ -104,6 +111,7 @@ D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.
 D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\MediatR.dll
 D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\MediatR.Contracts.dll
 D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
 D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
@@ -164,13 +172,6 @@ D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.
 D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\Core.Persistence.pdb
 D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\Core.Security.pdb
 D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\bin\Debug\net6.0\Domain.pdb
-D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
-D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
-D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
-D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
-D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
-D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
-D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
 D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
 D:\Metin\Projects\nArchitecture\src\demoProjects\rentACar\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css

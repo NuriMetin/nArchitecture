@@ -10,15 +10,3 @@ D:\OwnProjects\BestPractice\nArchitecture\src\corePackages\Core.Mailing\obj\Debu
 D:\OwnProjects\BestPractice\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net6.0\refint\Core.Mailing.dll
 D:\OwnProjects\BestPractice\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.pdb
 D:\OwnProjects\BestPractice\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net6.0\ref\Core.Mailing.dll
-D:\Metin\Projects\nArchitecture\src\corePackages\Core.Mailing\bin\Debug\net6.0\Core.Mailing.deps.json
-D:\Metin\Projects\nArchitecture\src\corePackages\Core.Mailing\bin\Debug\net6.0\Core.Mailing.dll
-D:\Metin\Projects\nArchitecture\src\corePackages\Core.Mailing\bin\Debug\net6.0\Core.Mailing.pdb
-D:\Metin\Projects\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.csproj.AssemblyReference.cache
-D:\Metin\Projects\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.GeneratedMSBuildEditorConfig.editorconfig
-D:\Metin\Projects\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.AssemblyInfoInputs.cache
-D:\Metin\Projects\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.AssemblyInfo.cs
-D:\Metin\Projects\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.csproj.CoreCompileInputs.cache
-D:\Metin\Projects\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.dll
-D:\Metin\Projects\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net6.0\refint\Core.Mailing.dll
-D:\Metin\Projects\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.pdb
-D:\Metin\Projects\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net6.0\ref\Core.Mailing.dll

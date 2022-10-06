@@ -1044,19 +1044,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\matinnu\\.nuget\\packages\\": {}
+    "C:\\Users\\Hewlett-Packard\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj",
+      "projectUniqueName": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj",
       "projectName": "Core.Security",
-      "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj",
-      "packagesPath": "C:\\Users\\matinnu\\.nuget\\packages\\",
-      "outputPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Security\\obj\\",
+      "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj",
+      "packagesPath": "C:\\Users\\Hewlett-Packard\\.nuget\\packages\\",
+      "outputPath": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Security\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\matinnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hewlett-Packard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1064,14 +1069,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
-              "projectPath": "D:\\OwnProjects\\BestPractice\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
+            "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+              "projectPath": "D:\\Metin\\Projects\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
             }
           }
         }
@@ -1123,7 +1129,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
